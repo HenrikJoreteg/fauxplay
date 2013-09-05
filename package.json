@@ -1,0 +1,20 @@
+{
+  "name": "fauxplay",
+  "version": "0.0.1",
+  "description": "Browser module for playing back an array of dataURIs in an <img> tag to make it look like a video.",
+  "main": "./fauxplay.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HenrikJoreteg/fauxplay"
+  },
+  "keywords": [
+    "browser",
+    "getUserMedia",
+    "WebRTC"
+  ],
+  "author": "Henrik Joreteg <henrik@andyet.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "2.x"
+  }
+}

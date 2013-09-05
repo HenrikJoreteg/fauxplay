@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<title>Fauxplay Demo</title>
+
+<h3>This is an &lt;img&gt; tag:</h3>
+<img id="demo">
+
+<script src="fauxplay.bundle.js"></script>
+<script src="testdata.js"></script>
+<script>
+    var image = document.getElementById('demo');
+    fauxplay(window.data, image, {loop: true})
+</script>
