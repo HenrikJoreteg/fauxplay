@@ -12,7 +12,7 @@ npm install fauxplay
 
 ## demo
 
-Open 
+Open the `demo.html` file in Chrome.
 
 ## example
 
